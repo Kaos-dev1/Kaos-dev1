@@ -42,6 +42,7 @@
 </div>
 
 ###
+<h3 align="left"> 📞 Contato  </h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rodrigo-tavares-5bb4a735b/" target="_blank">
