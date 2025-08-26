@@ -17,8 +17,8 @@ Sou apaixonado por programação e tecnologia. Tenho experiência e domínio nas
 
 ## 📫 Contato
 
-- Email: seuemail@exemplo.com
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seuperfil)
+- Email: rodrigopessoal1103@gmail.com
+- LinkedIn: [Rodrigo Tavares](https://www.linkedin.com/in/rodrigo-tavares-5bb4a735b/)
 
 ---
 
