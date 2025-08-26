@@ -1,4 +1,4 @@
-Bem-vindo ao meu perfil GitHub! Aqui você encontrará projetos desenvolvidos com as principais tecnologias que domino.
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará projetos desenvolvidos com as principais tecnologias que sou acostumado.
 
 ## 🚀 Sobre mim
 
