@@ -1,2 +1,25 @@
-## Me chamo Rodrigo Cauan Tavares, tenho 20 anos e sou natural de São Paulo - SP, concluí o ensino médio na etec Parque Belém, com o curso técnico em informática, além de ter concluído também um curso de Design Gráfico na Etec de Vila Formosa. Atualmente estou cursando Ciência de Computação na UNICID. Sou apaixonado por tecnologia, desde pequeno eu me interessei através dos jogos e sistemas criados para divertirem e facilitarem a vida de quem as usa, e compartilho todo o meu conhecimento e evolução por meio de projetos neste perfil do GitHub
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará projetos desenvolvidos com as principais tecnologias que domino.
 
+## 🚀 Sobre mim
+
+Sou apaixonado por programação e tecnologia. Tenho experiência e domínio nas seguintes linguagens:
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</div>
+
+- **PHP**: Desenvolvimento web backend e APIs
+- **Python**: Scripts, automações e análise de dados
+- **HTML5 & CSS3**: Criação de interfaces modernas e responsivas
+
+## 📫 Contato
+
+- Email: seuemail@exemplo.com
+- LinkedIn: [Seu Perfil](https://linkedin.com/in/seuperfil)
+
+---
+
+Obrigado por visitar! 🚀
