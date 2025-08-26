@@ -17,6 +17,8 @@
 
 ###
 
+<h2 align="left">"Tenho 20 anos"</h2>
+
 <p align="left">Nascido e criado em São Paulo - SP<br><br>- 🔭 Ampliando meu horizonte, buscando por um estágio na minha primeira oportunidade como programador  👾<br>- 📚 Na faculdade já aprendemos muito sobre algumas linguagens de programação, estou no segundo semestre e estou cada vez mais evoluindo! 💯<br>- ⚡ No meu tempo livre, eu gosto de conhecer novos sistemas operacionais, como linux ubuntu, macOS diversos, IOS, Android 🤖</p>
 
 ###
